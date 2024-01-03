@@ -1,4 +1,6 @@
-# Veille Philosophie
+# Philosophie
+
+Un outil de veille
 
 ## Mastodon <aside>Tags</aside>
 

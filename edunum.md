@@ -3,7 +3,7 @@ feedTitlesInComments: true
 ---
 
 
-# Veille sur le numérique éducatif
+# Numérique éducatif
 
 Sites institutionnels & non-institutionnels
 
