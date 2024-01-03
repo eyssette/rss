@@ -13,6 +13,38 @@ Un outil de veille
 - https://plato.stanford.edu/rss/sep.xml <!-- Stanford Encyclopedia of Philosophy -->
 - https://iep.utm.edu/feed/ <!-- Internet Encyclopedia of Philosophy --> 
 
+## Sites académiques
+
+- https://philosophie.ac-normandie.fr/spip.php?page=backend
+- https://philosophie.enseigne.ac-lyon.fr/wordpress/feed/ <!-- Académie de Lyon -->
+- https://www.pedagogie.ac-nice.fr/philo/feed/
+- https://philosophie.ac-versailles.fr/spip.php?page=backend
+- https://philosophie.ac-creteil.fr/spip.php?page=backend
+- https://pedagogie.ac-toulouse.fr/philosophie/path/rss.xml/all
+- http://philosophie.ac-amiens.fr/?page=backend
+- http://philosophie.discipline.ac-lille.fr/RSS
+- https://www.pedagogie.ac-nantes.fr/adminsite/webservices/export_rss.jsp?objet=ressourcepedagogique&CODE_RUBRIQUE=PHILOS&CODE_RATTACHEMENT=PHILO&NOMBRE=10
+- https://www.pedagogie.ac-nantes.fr/adminsite/webservices/export_rss.jsp?objet=ARTICLE&CODE_RUBRIQUE=PHILOS
+- https://ww2.ac-poitiers.fr/philosophie/spip.php?page=backend
+- http://philosophie.ac-besancon.fr/feed/
+- http://philosophie.tice.ac-orleans-tours.fr/php5/?feed=rss2
+- https://philosophie.ac-dijon.fr/spip.php?page=backend
+- https://pedagogie.ac-clermont.fr/disciplines/philosophie/feed/
+- https://ent2d.ac-bordeaux.fr/disciplines/philosophie/feed
+- https://pedagogie.ac-guadeloupe.fr/node/5440/rss.xml
+- https://site.ac-martinique.fr/philosophie/?feed=rss2
+- https://philosophie.ac-noumea.nc/spip.php?page=backend
+- https://pedagogie.ac-reims.fr/index.php/philosophie-lycee/enseigner-philosophie-lycee?format=feed&type=rss
+- https://philosophie-pedagogie.web.ac-grenoble.fr/rss/
+
+<!-- 
+https://pedagogie.ac-reunion.fr/philosophie.html
+https://philosophie.dis.ac-guyane.fr/
+https://pedagogie.ac-strasbourg.fr/philosophie/
+https://www.pedagogie.ac-aix-marseille.fr/jcms/c_207419/fr/accueil
+https://pedagogie.ac-montpellier.fr/discipline/philosophie
+-->
+
 ## Revues
 - https://raison-publique.fr/feed/ <!-- RAISON PUBLIQUE -->
 - https://igitur.org/index.php/igitur/gateway/plugin/AnnouncementFeedGatewayPlugin/rss2 <!-- Igitur -->
