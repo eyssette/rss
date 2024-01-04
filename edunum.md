@@ -10,15 +10,15 @@ Sites institutionnels & non-institutionnels
 ## Mastodon <aside>Tags</aside>
 
 - https://mastodon.social/tags/drane.rss
-- https://mastodon.social/tags/numérique.rss
+- https://mastodon.social/tags/num%C3%A9rique.rss
 - https://mastodon.social/tags/edtech.rss
-- https://mastodon.social/tags/numériqueeducatif.rss
+- https://mastodon.social/tags/num%C3%A9riqueeducatif.rss
 - https://mastodon.social/tags/Ress_num.rss
-- https://mastodon.social/tags/CommunsNumériques.rss
+- https://mastodon.social/tags/CommunsNum%C3%A9riques.rss
 - https://mastodon.social/tags/LaForge.rss
 - https://mastodon.social/tags/REL.rss
-- https://mastodon.social/tags/Libreéducatif.rss
-- https://mastodon.social/tags/édu_num.rss
+- https://mastodon.social/tags/Libre%C3%A9ducatif.rss
+- https://mastodon.social/tags/%C3%A9du_num.rss
 
 ## DANE / DRANE
 
