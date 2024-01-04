@@ -11,7 +11,7 @@ Sites institutionnels & non-institutionnels
 
 - https://mastodon.social/tags/drane.rss
 - https://mastodon.social/tags/num%C3%A9rique.rss
-- https://mastodon.social/tags/numérique.rss
+- https://mastodon.social/tags/numerique.rss
 - https://mastodon.social/tags/edtech.rss
 - https://mastodon.social/tags/num%C3%A9riqueeducatif.rss
 - https://mastodon.social/tags/numeriqueeducatif.rss
