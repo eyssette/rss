@@ -63,6 +63,7 @@ https://pedagogie.ac-montpellier.fr/discipline/philosophie
 - https://www.harrystaut.fr/feed/ <!-- Harrystaut -->
 - https://guillaumedurieux.wordpress.com/feed/ <!-- Guillaume Durieux -->
 - https://cenestquunetheorie.wordpress.com/feed/ <!-- Ce n'est qu'une théorie -->
+- https://medium.com/feed/@ferry-danini <!-- Blog de Ferry Danini -->
 
 ## Blogs <aside>FR (Autres)</aside>
 
@@ -71,7 +72,6 @@ https://pedagogie.ac-montpellier.fr/discipline/philosophie
 - https://ecopraxisphilo.fr/feed/ <!-- Écopraxis -->
 - https://unphilosophe.com/feed/ <!-- Un Philosophe -->
 - https://septembre.space/new-blog?format=rss <!-- Les cours - Septembre -->
-- https://medium.com/feed/@ferry-danini <!-- Blog de Ferry Danini -->
 - https://zet-ethique.fr/feed/ <!-- Zet-Ethique Métacritique -->
 - https://joaogabriell.com/feed/ <!-- Le blog de Joao -->
 - https://epancopi.hypotheses.org/feed <!-- Covid-19 : enjeux éthiques et épistémologiques -->
